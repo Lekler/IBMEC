@@ -1,6 +1,6 @@
 # Análise de Carteiras de Ações com Base em ROE e Magic Formula
 
-Este projeto tem como objetivo criar uma carteira de ações com base nos 10 papéis com maior **ROE (Return on Equity)** e compará-la com o desempenho do **IBOVESPA** e da estratégia **Magic Formula** de Joel Greenblatt no período de **01 de abril de 2023** até **01 de abril de 2024**.
+Este projeto tem como objetivo criar uma carteira de ações com base nos 10 papéis com maior **ROE (Return on Equity)** e compará-la com o desempenho do **IBOVESPA** e da estratégia **Magic Formula** de Joel Greenblatt no período de **01 de abril de 2023** até **25 de setembro de 2024**.
 
 ## Sumário
 
